@@ -1,0 +1,38 @@
+* 5cadee2 (HEAD -> main, InCollege/epic-8, epic-8) Test case for ICT-175
+* d059a90 Removed a line that was used for testing
+* 693bee6 (InCollege/update-mock-data) Completed test cases for Epic 8
+*   2549922 Got latest code
+|\  
+| * 58be524 Restrict Database Update
+| * d528784 Fixed Circular Import Issue
+* | 04af522 Fixed merge conflict
+* |   43e52eb Fixed merge conflict
+|\ \  
+| |/  
+|/|   
+| * 41ca8b3 Notify on job application inactivity
+* | c67fa6d Circular import error on test_epic8.py
+|/  
+* adb4ee2 added job post notification
+* e22d771 added new user notifications
+* a15cf09 Profile, Late Login, Job Delete Notifications Complete
+| *   61eea1d (epic-7) Merge branch 'epic-7' of github.com:bilaljoud/InCollege into epic-7
+| |\  
+| |/  
+|/|   
+* | acd8f02 (InCollege/main, InCollege/epic-7) added a mock database for testing and finished testing, development and testing now done
+| *   e292cbd Merge branch 'epic-7' of github.com:bilaljoud/InCollege into epic-7
+| |\  
+| |/  
+|/|   
+* | 78185d4 added gitignore file
+| * 655c1d1 heres my epic 7 updated
+|/  
+* 2ed29f7 added more tests for epic 7, fixed some previous tests, and updated database functionality
+* 9c09af7 added tests for epic 7
+* f970fc1 Epic-7-Complete
+| * 64c78ff (InCollege/rename-functions) post_job --> create_job
+| * f04cc74 send_friend_request --> create_friend_request
+| * bb283b6 add_user --> create_user
+|/  
+* e4cf35e Initial Commit

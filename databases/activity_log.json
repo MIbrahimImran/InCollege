@@ -1,0 +1,14 @@
+{
+  "activities": [
+    {
+      "type": "Job Application",
+      "user_id": "1",
+      "time_stamp": "2022-11-20 16:54:08.249192"
+    },
+    {
+      "type": "Job Application",
+      "user_id": "10",
+      "time_stamp": "2022-11-17 14:32:01.421953"
+    }
+  ]
+}
